@@ -1,0 +1,72 @@
+Update products set imagelocation = 'image/001.png' where productid = '001';
+Update products set imagelocation = 'image/002.png' where productid = '002';
+Update products set imagelocation = 'image/003.png' where productid = '003';
+Update products set imagelocation = 'image/004.png' where productid = '004';
+Update products set imagelocation = 'image/005.png' where productid = '005';
+Update products set imagelocation = 'image/006.png' where productid = '006';
+Update products set imagelocation = 'image/007.png' where productid = '007';
+
+Update products set imagelocation = 'image/008.png' where productid = '008';
+Update products set imagelocation = 'image/009.png' where productid = '009';
+Update products set imagelocation = 'image/010.png' where productid = '010';
+Update products set imagelocation = 'image/011.png' where productid = '011';
+Update products set imagelocation = 'image/012.png' where productid = '012';
+Update products set imagelocation = 'image/013.png' where productid = '013';
+Update products set imagelocation = 'image/014.png' where productid = '014';
+
+Update products set imagelocation = 'image/015.png' where productid = '015';
+Update products set imagelocation = 'image/016.png' where productid = '016';
+Update products set imagelocation = 'image/017.png' where productid = '017';
+Update products set imagelocation = 'image/018.png' where productid = '018';
+Update products set imagelocation = 'image/019.png' where productid = '019';
+Update products set imagelocation = 'image/020.png' where productid = '020';
+Update products set imagelocation = 'image/021.png' where productid = '021';
+
+Update products set imagelocation = 'image/022.png' where productid = '022';
+Update products set imagelocation = 'image/023.png' where productid = '023';
+Update products set imagelocation = 'image/024.png' where productid = '024';
+Update products set imagelocation = 'image/025.png' where productid = '025';
+Update products set imagelocation = 'image/026.png' where productid = '026';
+Update products set imagelocation = 'image/027.png' where productid = '027';
+Update products set imagelocation = 'image/028.png' where productid = '028';
+
+Update products set imagelocation = 'image/029.png' where productid = '029';
+Update products set imagelocation = 'image/030.png' where productid = '030';
+Update products set imagelocation = 'image/031.png' where productid = '031';
+
+Update products set imagelocation = 'image/001.png' where productid = '001';
+Update products set imagelocation = 'image/002.png' where productid = '002';
+Update products set imagelocation = 'image/003.png' where productid = '003';
+Update products set imagelocation = 'image/004.png' where productid = '004';
+Update products set imagelocation = 'image/005.png' where productid = '005';
+Update products set imagelocation = 'image/006.png' where productid = '006';
+Update products set imagelocation = 'image/007.png' where productid = '007';
+
+Update products set imagelocation = 'image/008.png' where productid = '008';
+Update products set imagelocation = 'image/009.png' where productid = '009';
+Update products set imagelocation = 'image/010.png' where productid = '010';
+Update products set imagelocation = 'image/011.png' where productid = '011';
+Update products set imagelocation = 'image/012.png' where productid = '012';
+Update products set imagelocation = 'image/013.png' where productid = '013';
+Update products set imagelocation = 'image/014.png' where productid = '014';
+
+Update products set imagelocation = 'image/015.png' where productid = '015';
+Update products set imagelocation = 'image/016.png' where productid = '016';
+Update products set imagelocation = 'image/017.png' where productid = '017';
+Update products set imagelocation = 'image/018.png' where productid = '018';
+Update products set imagelocation = 'image/019.png' where productid = '019';
+Update products set imagelocation = 'image/020.png' where productid = '020';
+Update products set imagelocation = 'image/021.png' where productid = '021';
+
+Update products set imagelocation = 'image/022.png' where productid = '022';
+Update products set imagelocation = 'image/023.png' where productid = '023';
+Update products set imagelocation = 'image/024.png' where productid = '024';
+Update products set imagelocation = 'image/025.png' where productid = '025';
+Update products set imagelocation = 'image/026.png' where productid = '026';
+Update products set imagelocation = 'image/027.png' where productid = '027';
+Update products set imagelocation = 'image/028.png' where productid = '028';
+
+Update products set imagelocation = 'image/029.png' where productid = '029';
+Update products set imagelocation = 'image/030.png' where productid = '030';
+Update products set imagelocation = 'image/031.png' where productid = '031';
+
